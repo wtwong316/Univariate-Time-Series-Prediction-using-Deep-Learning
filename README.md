@@ -22,7 +22,7 @@ According to the table below, **CNN using 1D Convolutional layer** outperformed 
 ### 2. Qualitative Analysis
 It definitely suffers from the typical lagging issue.
 
-<img src = './results/plots/Appliances Energy Prediction using GRU.png' width="500">
+<img src = './results/plots/Appliances Energy Prediction using CNN.png' width="500">
 
 ### 3. Run the Codes
 If you want to train *Attention LSTM*, 
